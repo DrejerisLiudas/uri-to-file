@@ -1,4 +1,4 @@
-# uri_to_file
+# uri_to_file - temporary fork that fixes namespace issue
 
 [![Pub](https://img.shields.io/pub/v/uri_to_file.svg?style=flat-square&logo=dart&label=pub.dev&color=blue)](https://pub.dev/packages/uri_to_file)
 
